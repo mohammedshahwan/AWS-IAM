@@ -16,6 +16,8 @@
 - IAM Users
 - IAM Policy Simulator
 
+<br />
+
 ## What is AWS IAM?
 
 AWS IAM is the identity and access management service within AWS. AWS IAM is used to manage the access level that other users and services have to a given resource.
